@@ -24,6 +24,7 @@ These projects are not necessarily Hermes-specific, but provide strong patterns 
 *   **[carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS):** OpenClaw mission-control style dashboard that inspires Hermes features such as local configs, sessions, memory, logs, system monitor, cron manager, and activity feed.
 *   **[tranhoangtu-it/agentlens](https://github.com/tranhoangtu-it/agentlens):** Agent observability dashboard for tracing, replaying, debugging, and analyzing Hermes-style tool calls and workflow failures.
 *   **[MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control):** AI task-management command center for solo-founder and product-studio workflows where humans delegate tasks to AI agents and track execution.
+*   **[flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor):** Self-hosted monitoring dashboard for OpenClaw AI agents with token usage, session tracking, 7-day trends, and multi-model support. Vue 3 + ECharts.
 
 ---
 
