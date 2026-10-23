@@ -7,6 +7,12 @@ A curated, deduplicated collection of dashboards, control panels, mission-contro
 
 ---
 
+## Contents
+
+- [Hermes-Native Dashboards & Workspaces](#-hermes-native-dashboards--workspaces)
+- [Mission Control & Agent Fleet Inspiration](#-mission-control--agent-fleet-inspiration)
+- [Contribution Guidelines](#-contribution-guidelines)
+
 ## 🚀 Hermes-Native Dashboards & Workspaces
 These projects are directly tied to Hermes Agent or are explicitly useful for Hermes control-plane work.
 
